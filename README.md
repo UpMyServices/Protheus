@@ -1,2 +1,2 @@
 # Protheus
-Integração Protheus
+Integração Protheus OpenCart
